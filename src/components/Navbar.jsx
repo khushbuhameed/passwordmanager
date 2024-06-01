@@ -20,7 +20,7 @@ const Navbar = () => {
         <img
           className="invert p-1"
           width={45}
-          src="./icons/icons8-github-64.png"
+          src="icons/icons8-github-64.png"
           alt="github logo"
         />
         GitHub
